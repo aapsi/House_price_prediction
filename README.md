@@ -17,7 +17,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `linear_regression_scikitlearn.ipynb` notebook file and the code for gradient_descent/mathematical approach is provided in the `Linear_Regression.ipynb` notebook file. You will also be required to use the included `USA_Housing.csv` dataset file to complete your work.
+Template code is provided in the `linear_regression_scikitlearn.ipynb` notebook file. You will also be required to use the included `USA_Housing.csv` dataset file to complete your work.
 
 ### Run
 
